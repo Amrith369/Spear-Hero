@@ -1,0 +1,32 @@
+[X] Basic Spear
+[X] Chimera (Chaos) Spear (Chaos Spear)
+[X] Rope Spear (Air Strike Javelin)
+[X] Siderite Spear (Shooting Star Spear)
+[X] Nue Spear (Lightning Spear)
+[X] Dragon Hourglass Sand Spear (Portal Spear)
+[ ] Water Dragon Harpoon Spear (Brionac)
+[ ] Spear Of Envy/Lust (Ressentiment)
+[ ] Minute Hand Of The Dragon
+ ==========================================
+ Powerup (smelt):
+coal - 10%
+iron - 30%
+redstone - 50%
+gold - 60%
+diamond - 70%
+emerald - 85%
+debris - 100%
+
+ trigger smelt
+ smelt score?
+ summon armor_stand
+ spreadplayers
+ distance = 1
+ distance = 1..5 (More rare ore OR starting levels)
+ ore in offhand, weapon in mainhand
+
+
+ clear spear
+ Summon spear @ mastery level w/ no pickup
+ data modify .Lore append "item enchantment \n level 7: EFFECT"
+ data modify pickup

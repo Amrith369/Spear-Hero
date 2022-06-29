@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Spear of Lust/Envy",
+            "color": "dark_green",
+            "italic": true
+        },
+        "description": {
+            "text": "<abilities locked> equip bonus: skill: \"Ressentiment\""
+        },
+        "icon": {
+            "item": "minecraft:carrot_on_a_stick",
+            "nbt": "{CustomModelData:455008}"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "skillone": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Minute Hand of the Dragon's Era",
+            "color": "gold",
+            "italic": true
+        },
+        "description": {
+            "text": "<abilities locked> equip bonus: skill: Time Reversal special effect: Diverging worlds"
+        },
+        "icon": {
+            "item": "minecraft:carrot_on_a_stick",
+            "nbt": "{CustomModelData:455009}"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "skillone": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "spear_hero:spears/root"
+}
